@@ -1,6 +1,9 @@
 # Arvores (remoção de  elemento)
 ---
 
+## Nome: Otávio Alexandre de Camargo Ferreira
+## E-mail: otavio.ferreira01@fatec.sp.gov.br
+
 ## Objetivos
 
 Ao concluir esta atividade você deverá estender sua compreensão os seguintes conceitos:
